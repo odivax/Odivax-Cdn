@@ -1,0 +1,17 @@
+/* Custom Material Design Box*/
+.tsbox{background:#fff;position:relative;margin:40px 2px;padding:40px 15px 15px;border:1px solid rgba(230,230,230,1);border-radius:5px;box-shadow:0 10px 20px 0 rgba(30,30,30,.07)}
+.tsbox h2 {background: linear-gradient(to right,#11998e,#38ef7d);border-radius:3px;padding:8px 20px!important;position:absolute;margin:0!important;font-size:17px!important;color:#fff;top:-20px;font-weight:bold;left:30px;text-transform:uppercase}
+.tsbox.box-TS1 h2{background: linear-gradient(90deg, #7E04FF, #02FBFF);}
+.tsbox.box-TS2 h2{background: linear-gradient(90deg, #FDB40D, #F4D998);}
+.tsbox.box-TS3 h2{background: linear-gradient(to right, #f12711, #f5af19);}
+.clicker {width:60px;height:60px;margin-left:-30px;margin-top:-30px;background:#204ecf;border-radius:100%;position:absolute;transform:scale(0);opacity:.3;-ms-filter:none;filter:none;z-index:9999;pointer-events:none}
+.drK .tsbox{background:#252525}.clicker{background:#fff}.clicker.is-active{opacity:0;-ms-filter:'progid:DXImageTransform.Microsoft.Alpha(Opacity=0)';filter:alpha(opacity=0);transition:opacity 900ms ease,transform 900ms ease;transform:scale(1)}
+
+/* table detail */ 
+.Blog table.tr-caption-container{min-width:inherit;width:auto;margin:0 auto;border:0;position:relative} 
+.Blog table.tr-caption-container tr td{background-color:transparent;border:0;padding:0} 
+.Blog table.tr-caption-container tr:nth-child(2n+1) td, .Blog table.tr-caption-container tr:nth-child(2n+1) td:first-child{border:0;background:transparent} 
+.Blog table.tr-caption-container .tr-caption{display:block;font-size:12px;font-style:italic;color:#767676;background-color:transparent;border:0} 
+.Blog table{width:100%;margin:20px 0px;border:1px solid rgba(230,230,230,1);border-radius:7px;overflow:hidden;font-size:14px} 
+.Blog table th{background-color:transparent;padding:15px 20px;border:1px solid #ddd;border-left:0;font-family:Noto Sans;font-size:13px} 
+.Blog table th:last-child, .Blog table tr td:last-child, .Blog table tr:nth-child(2n) td:last-child{border-right:0} .Blog table td{padding:15px 20px;border:1px solid #ddd;border-left:0;border-top:0;vertical-align:middle} .Blog table tr:nth-child(2n + 1) td{background-color:rgba(0,0,0,.025)} .Blog .table{display:block;overflow-y:hidden;overflow-x:auto;border-radius:3px;scroll-behavior:smooth;}
