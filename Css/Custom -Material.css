@@ -4,65 +4,21 @@
 .tsbox.box-TS1 h2{background: linear-gradient(90deg, #7E04FF, #02FBFF);}
 .tsbox.box-TS2 h2{background: linear-gradient(90deg, #FDB40D, #F4D998);}
 .tsbox.box-TS3 h2{background: linear-gradient(to right, #f12711, #f5af19);}
-.tsbox.box-TS5 h2 {
-  background: linear-gradient(to right, #0f2027, #203a43, #2c5364);
-}
-
-.tsbox.box-TS6 h2 {
-  background: linear-gradient(to right, #4568dc, #b06ab3);
-}
-
-.tsbox.box-TS7 h2 {
-  background: linear-gradient(to right, #ff416c, #ff4b2b);
-}
-
-.tsbox.box-TS8 h2 {
-  background: linear-gradient(to right, #1f4037, #99f2c8);
-}
-
-.tsbox.box-TS9 h2 {
-  background: linear-gradient(to right, #373b44, #4286f4);
-}
-
-.tsbox.box-TS10 h2 {
-  background: linear-gradient(to right, #00c6ff, #0072ff);
-}
-
-.tsbox.box-TS11 h2 {
-  background: linear-gradient(to right, #3a1c71, #d76d77, #ffaf7b);
-}
-
-.tsbox.box-TS12 h2 {
-  background: linear-gradient(to right, #ff512f, #dd2476);
-}
-
-.tsbox.box-TS13 h2 {
-  background: linear-gradient(to right, #ff9a9e, #fad0c4, #fad0c4);
-}
-
-.tsbox.box-TS14 h2 {
-  background: linear-gradient(to right, #43cea2, #185a9d);
-}
-
-.tsbox.box-TS15 h2 {
-  background: linear-gradient(to right, #f7971e, #ffd200);
-}
-
-.tsbox.box-TS16 h2 {
-  background: linear-gradient(to right, #c33764, #1d2671);
-}
-
-.tsbox.box-TS17 h2 {
-  background: linear-gradient(to right, #00b09b, #96c93d);
-}
-
-.tsbox.box-TS18 h2 {
-  background: linear-gradient(to right, #f953c6, #b91d73);
-}
-
-.tsbox.box-TS19 h2 {
-  background: linear-gradient(to right, #fc5c7d, #6a82fb);
-}
+.tsbox.box-TS5 h2 {background: linear-gradient(to right, #0f2027, #203a43, #2c5364);}
+.tsbox.box-TS6 h2 {background: linear-gradient(to right, #4568dc, #b06ab3);}
+.tsbox.box-TS7 h2 {background: linear-gradient(to right, #ff416c, #ff4b2b);}
+.tsbox.box-TS8 h2 {background: linear-gradient(to right, #1f4037, #99f2c8);}
+.tsbox.box-TS9 h2 {background: linear-gradient(to right, #373b44, #4286f4);}
+.tsbox.box-TS10 h2 {background: linear-gradient(to right, #00c6ff, #0072ff);}
+.tsbox.box-TS11 h2 {background: linear-gradient(to right, #3a1c71, #d76d77, #ffaf7b);}
+.tsbox.box-TS12 h2 {background: linear-gradient(to right, #ff512f, #dd2476);}
+.tsbox.box-TS13 h2 {background: linear-gradient(to right, #ff9a9e, #fad0c4, #fad0c4);}
+.tsbox.box-TS14 h2 {background: linear-gradient(to right, #43cea2, #185a9d);}
+.tsbox.box-TS15 h2 {background: linear-gradient(to right, #f7971e, #ffd200);}
+.tsbox.box-TS16 h2 {background: linear-gradient(to right, #c33764, #1d2671);}
+.tsbox.box-TS17 h2 {background: linear-gradient(to right, #00b09b, #96c93d);}
+.tsbox.box-TS18 h2 {background: linear-gradient(to right, #f953c6, #b91d73);}
+.tsbox.box-TS19 h2 {background: linear-gradient(to right, #fc5c7d, #6a82fb);}
 .clicker {width:60px;height:60px;margin-left:-30px;margin-top:-30px;background:#204ecf;border-radius:100%;position:absolute;transform:scale(0);opacity:.3;-ms-filter:none;filter:none;z-index:9999;pointer-events:none}
 .drK .tsbox{background:#252525}.clicker{background:#fff}.clicker.is-active{opacity:0;-ms-filter:'progid:DXImageTransform.Microsoft.Alpha(Opacity=0)';filter:alpha(opacity=0);transition:opacity 900ms ease,transform 900ms ease;transform:scale(1)}
 
