@@ -6,6 +6,6 @@ The code shared on this site is exclusively intended for **OdiCode CDN** usage o
 
 - **Do not** use this code for any **personal**, **commercial**, or **unauthorized** purposes.
 - Any misuse or redistribution without proper permission is strictly prohibited.
-- These resources are maintained by the OdiCode team to help improve community-driven blogging solutions.
+- These resources are maintained by the ODIVEX team to help improve community-driven blogging solutions.
 
 We appreciate your respect for the efforts of the OdiCode community. For custom use or integration, please contact the team directly.
